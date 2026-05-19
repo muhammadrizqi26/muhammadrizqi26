@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rizqi</h1>
 
 <h3 align="center">
-Frontend Developer | React Enthusiast
+Frontend Developer 
 </h3>
 
 <p align="center">
