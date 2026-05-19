@@ -27,15 +27,6 @@ Frontend Developer | React Enthusiast
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadrizqi26&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrizqi26&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
